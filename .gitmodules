@@ -1,0 +1,6 @@
+[submodule "BookList/backend"]
+	path = BookList/backend
+	url = https://github.com/ronish-stha/graphQLBookListBackend
+[submodule "BookList/frontend"]
+	path = BookList/frontend
+	url = https://github.com/ronish-stha/graphQLBookListFrontend
